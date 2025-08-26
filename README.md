@@ -39,7 +39,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/ВАШ_НИКНЕЙМ/nlp-news-classification.git
+    git clone https://github.com/Kopo4ka228/nlp-news-classification.git
     cd nlp-news-classification
     ```
 
