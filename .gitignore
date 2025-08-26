@@ -1,0 +1,10 @@
+# Игнорируем системные файлы Python и Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Игнорируем файлы IDE и виртуальных окружений
+.idea/
+.vscode/
+venv/
+*.env
+.env
